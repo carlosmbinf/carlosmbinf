@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "test",
+    "description": "test description"
+  },
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "object": {
+      "type": "json"
+    }
+  }
+}
